@@ -1,0 +1,29 @@
+{
+  "manifest_version": 3,
+  "name": "AI JSON Formatter For Chrome",
+  "version": "1.0",
+  "description": "Encode, Decode, Format & Minify JSON easily.",
+  "author": "Kamod Kumar",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kamod7619/json-free-tool"
+  },
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "AI JSON Formatter For Chrome",
+    "default_icon": {
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png",
+      "128": "icons/icon128.png"
+    }
+  },
+
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png",
+    "512": "icons/icon512.png"
+  },
+
+  "permissions": []
+}
