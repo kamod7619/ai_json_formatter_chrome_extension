@@ -74,22 +74,6 @@ No external libraries. No frameworks. Lightweight and fast.
 
 ---
 
-# 📁 Project Structure
-
-```
-ai_json_formatter_chrome_extension/
-│
-├── manifest.json        # Extension configuration
-├── popup.html           # Main UI
-├── popup.js             # Core logic
-├── style.css            # Styling
-└── icons/
-      ├── icon16.png
-      ├── icon48.png
-      ├── icon128.png
-      └── icon512.png
-```
-
 ---
 
 # 🔧 Installation Guide (Development Mode)
