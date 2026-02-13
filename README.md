@@ -8,6 +8,17 @@ Built with simplicity and performance in mind, the extension works completely of
 
 ---
 
+# 🌐 Live Demo
+
+You can try the web version of this tool here:
+
+👉 **Live URL:**
+https://kamod7619.github.io/ai_json_formatter_chrome_extension
+
+This hosted version allows you to use the JSON formatter directly in your browser without installing the extension.
+
+---
+
 # 📌 Why This Extension?
 
 Working with JSON is a daily task for developers. Often, API responses come in minified or unreadable format, making debugging difficult.
