@@ -74,8 +74,6 @@ No external libraries. No frameworks. Lightweight and fast.
 
 ---
 
----
-
 # 🔧 Installation Guide (Development Mode)
 
 ## Step 1: Clone Repository
